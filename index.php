@@ -1,4 +1,6 @@
 <?php
 
-echo "Hello world";
+echo "Hello world 69696969";
+
+echo "Piratas da net";
 ?>
